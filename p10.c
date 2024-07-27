@@ -37,3 +37,4 @@ public class P10_1HitCounter extends HttpServlet {
         // can write hitCount value in your database.
     }
 }
+
